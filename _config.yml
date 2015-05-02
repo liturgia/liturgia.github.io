@@ -1,15 +1,15 @@
 # Used to generate the site
 # Site settings
-title: "Liturgia"
-title_short: ""
-header-img: home-bg.jpg
-email: "thom@thomcrowe.com"
+title: Liturgia
+header-img: img/home-bg.jpg
+email: thom@thomcrowe.com
 description: "Living the Ancient Faith in the Modern World"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://liturgia.org" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://liturgia.org"
 itunes_url: "https://itunes.apple.com/us/podcast/xxx"
-twitter_username: yourtwitter
-twitter_podcastname: yourpodcasttwitter
+twitter_username: liturgia
+github_username:  
+facebook_username:  liturgia
 
 # Build settings
 markdown: kramdown
@@ -17,22 +17,3 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-excerpt_separator: <!--more-->  
-
-authors:
-  thom:
-    name: Thom Crowe
-    display_name: Thom Crowe
-    gravatar: c66919cb194f96c696c1da0c47354a6a
-    email: thom@thomcrowe.com
-    web: http://thomcrowe.com
-    twitter: thomcrowe  
-    github: thomcrowe
-  jorgen:
-    name: Garth Bjorklund
-    display_name: Garth 
-    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
-    email: garthbjorklund@gmail.com
-    web: http://garthbjorklund.com
-    twitter: garthbjorklund
