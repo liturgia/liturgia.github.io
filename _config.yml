@@ -1,7 +1,7 @@
 # Used to generate the site
 # Site settings
 title: Liturgia
-header-img: img/home-bg.jpg
+header-img: "img/home-bg.jpg"
 email: thom@thomcrowe.com
 description: "Living the Ancient Faith in the Modern World"
 baseurl: ""
