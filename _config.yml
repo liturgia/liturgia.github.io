@@ -13,7 +13,6 @@ twitter_podcastname: yourpodcasttwitter
 
 # Used to generate the iTunes-compatible RSS feed
 podcast: Liturgia
-  owner: Thom Crowe
     name: Liturgia   
     email: thom@thomcrowe.com
   explicit: "no" # Change to yes if you're a potty mouth
