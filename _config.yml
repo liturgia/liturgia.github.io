@@ -1,10 +1,12 @@
 # Used to generate the site
+# Site settings
 title: "Liturgia"
 title_short: ""
+header-img: home-bg.jpg
 email: "thom@thomcrowe.com"
 description: "Living the Ancient Faith in the Modern World"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://liturgia.org" # the base hostname & protocol for your site
 itunes_url: "https://itunes.apple.com/us/podcast/xxx"
 twitter_username: yourtwitter
 twitter_podcastname: yourpodcasttwitter
@@ -16,9 +18,9 @@ podcast:
     email: Liturgia
   explicit: "no" # Change to yes if you're a potty mouth
   image: /img/generic-2000.png # iTunes requires 2,000 pixel art
-  keywords: "news"
+  keywords: "orthodyx" "orthodox church" "eastern orthodox" "christianity" "prayer" "bible" "worship"
   categories:
-    - category: "Technology"
+    - category: "Religion & Spirituality"
 
 
 # Build settings

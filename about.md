@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "This is what I do."
+description: "A half-hour, conversational podcast about modern life from a Christian perspective"
 header-img: "img/about-bg.jpg"
 ---
 

@@ -1,15 +1,14 @@
 ---
 layout:     post
-permalink: episodes/2/
+permalink:  episodes/2/
 title:      "12 Things I Love About Orthodoxy"
-excerpt: "This episode only exists so that there can be two episodes."
-date: 2015-02-24 02:00:00
-media: generic-2.mp3
-length: 342312
-duration: "00:00:19"
-explicit: "no"
+excerpt:    "This episode only exists so that there can be two episodes."
 date:       2015-04-24 12:00:00
-author:     "Thom"
+media:      generic-2.mp3
+length:     342312
+duration:    "00:00:19"
+explicit:   "no"
+author:     "Thom Crowe"
 tags:       [orthodoxy]
 header-img: "img/12reasons.png"
 ---

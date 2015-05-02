@@ -5,7 +5,7 @@ description: "Have questions? I have answers (maybe)."
 header-img: "img/contact-bg.jpg"
 ---
 
-<p>Want to get in touch with me? Fill out the form below to send me a message and I will try to get back to you within 24 hours!</p>
+<p>Have any thoughts, suggestions, ideas or feedback? We'd love to hear what you have to say! Have any questions about Orthodoxy? We'll help you get in touch with a local parish to help you out.</p>
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
