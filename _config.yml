@@ -12,10 +12,10 @@ twitter_username: yourtwitter
 twitter_podcastname: yourpodcasttwitter
 
 # Used to generate the iTunes-compatible RSS feed
-podcast:
-  owner:
-    name: Thom Crowe    
-    email: Liturgia
+podcast: Liturgia
+  owner: Thom Crowe
+    name: Liturgia   
+    email: thom@thomcrowe.com
   explicit: "no" # Change to yes if you're a potty mouth
   image: /img/generic-2000.png # iTunes requires 2,000 pixel art
   keywords: "orthodyx" "orthodox church" "eastern orthodox" "christianity" "prayer" "bible" "worship"
