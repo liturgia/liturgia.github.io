@@ -11,15 +11,6 @@ itunes_url: "https://itunes.apple.com/us/podcast/xxx"
 twitter_username: yourtwitter
 twitter_podcastname: yourpodcasttwitter
 
-# Used to generate the iTunes-compatible RSS feed
-podcast: Liturgia
-  explicit: "no" # Change to yes if you're a potty mouth
-  image: /img/generic-2000.png # iTunes requires 2,000 pixel art
-  keywords: "orthodoxy" "orthodox church" "eastern orthodox" "christianity" "prayer" "bible" "worship"
-  categories:
-    - category: "Religion & Spirituality"
-
-
 # Build settings
 markdown: kramdown
 highlighter: pygments
