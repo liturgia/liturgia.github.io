@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "A half-hour, conversational podcast about modern life from a Christian perspective"
+description: "A half-hour, conversational podcast about modern life from an Orthodox Christian perspective"
 header-img: img/about-bg.jpg
 ---
 
