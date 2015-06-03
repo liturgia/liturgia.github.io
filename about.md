@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "A half-hour, conversational podcast about modern life from a Christian perspective"
-header-img: img/about-bg.png
+header-img: img/about-bg.jpg
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
